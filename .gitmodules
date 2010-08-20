@@ -1,0 +1,3 @@
+[submodule "blogango"]
+	path = blogango
+	url = git@github.com:becomingGuru/django-blogango.git
